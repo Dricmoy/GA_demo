@@ -19,7 +19,7 @@ Welcome to **Genetic Pathways: Maze Evolution Simulator**! This project leverage
 
     ```bash
     git clone https://github.com/Dricmoy/GA_demo.git
-    cd your-repository
+    cd GA_demo
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
