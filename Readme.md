@@ -1,7 +1,8 @@
 # Genetic Pathways: Maze Evolution Simulator
 
 ![Demo Video](https://img.youtube.com/vi/odN9Fk89ECQ/maxresdefault.jpg)
-[![Watch the video](https://img.youtube.com/vi/odN9Fk89ECQ/hqdefault.jpg)](https://www.youtube.com/watch?v=odN9Fk89ECQ)
+
+[![Watch the video](https://img.shields.io/badge/Watch%20the%20Demo-YouTube-blue)](https://www.youtube.com/watch?v=odN9Fk89ECQ)
 
 ## Overview
 
